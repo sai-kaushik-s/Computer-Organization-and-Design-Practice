@@ -1,0 +1,3 @@
+Develop a simple C program that Opens a file in Read mode and dumps the content of the file to STDOUT - line by line.
+Keep the file size small, have exactly 3 lines.
+How did your code handle end of file condition?
